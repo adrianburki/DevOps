@@ -51,3 +51,7 @@ Um in die VM zu wechseln ist zusätzlich der in Vagrantfile definierte Name einz
 
 * Datenbank Server bzw. MySQL ist mit Password geschützt.
 * Der Web Server ist offen und mittels ungeschütztem HTTP Protokoll erreichbar.
+
+
+
+Adrian Burki
